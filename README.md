@@ -3,3 +3,25 @@ Welcome to the Recommendation-System-Project-Group-10 repository! 🎉 This proj
 
 # Project Overview
 In this repository, you’ll find three Jupyter Notebook files, each implementing a different recommendation system approach:
+
+# 015_029_059_Kelompok10_SVD
+Notebook ini mengimplementasikan Singular Value Decomposition (SVD) untuk sistem rekomendasi berbasis Collaborative Filtering. Algoritma ini mendekonstruksi matriks interaksi pengguna-item untuk menemukan hubungan laten antar elemen dan memberikan rekomendasi.
+Key Concepts:
+
+Singular Value Decomposition (SVD)
+Collaborative Filtering
+
+# KNN (1)
+Notebook ini menggunakan algoritma K-Nearest Neighbors (KNN) untuk membangun sistem rekomendasi berbasis kemiripan. Model ini merekomendasikan item berdasarkan kedekatan fitur antar item atau pengguna.
+Key Concepts:
+
+K-Nearest Neighbors (KNN)
+Similarity-based Recommendation
+
+# TF_IDF_Cosine_Similarity_(CBF) (1)
+Notebook ini mengimplementasikan metode Content-Based Filtering (CBF) dengan pendekatan TF-IDF dan Cosine Similarity. Sistem ini merekomendasikan item berdasarkan kemiripan konten atau atribut antar item.
+Key Concepts:
+
+TF-IDF (Term Frequency-Inverse Document Frequency)
+Cosine Similarity
+Content-Based Filtering
