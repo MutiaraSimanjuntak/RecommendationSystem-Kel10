@@ -28,6 +28,8 @@ Key Concepts:
 - Cosine Similarity
 - Content-Based Filtering
 
+## 🧑‍💻 Contributors
+---
 <br />
 
 ```
